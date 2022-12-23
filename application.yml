@@ -1,4 +1,4 @@
 one: 10
 
-client:
-  value: Test from GitHub.
+# client:
+#   value: Test from GitHub.
