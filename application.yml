@@ -1,1 +1,4 @@
 one: 10
+
+client:
+  value: Test from GitHub.
